@@ -1,4 +1,4 @@
-# Covid-19-Data-Analysis-Using-SQL-Server
+# Covid-19 Data Analysis Project Using SQL Server
 
 **Project Overview:**
 This project is about COVID-19 cases, Deaths & Vaccinations, the dataset utilized in this project is sourced from the Kaggle. In this project, I created a New Database, imported a Dataset from a Device, and worked on different types of Questions to “Retrieve valuable Insights” from the Data. I did this project in **SSMS**using **“SQL Server”**. The Dataset Contains **“16 Columns”** and  **”85K+ ‘ Rows”**. To do this Project I **“Used SQL Aggregate Functions”, “SQL Clauses”,  “SQL Wildcards”, “String Functions” & “SQL JOINS”.**
